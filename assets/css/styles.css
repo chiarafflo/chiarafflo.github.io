@@ -295,10 +295,9 @@ img{
     color:var(--first-color-alt);
 }
 
-.home_img{
-    background-image: url("/Users/chiaraflotildes/coding projects/personal-portfolio/assets/img/2YNVMD8Y-YV8Z.JPG");
-    width: 200px;
-    height: 200px;
+.home_img img{
+    width: 350px;
+    height: 360px;
     background-size: cover;
     background-position: center;
     box-shadow: 5px 5px 5px 5px var(--first-color-lighter);
