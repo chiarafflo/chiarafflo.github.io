@@ -297,7 +297,7 @@ img{
 
 .home_img img{
     width: 350px;
-    height: 360px;
+    height: 380px;
     background-size: cover;
     background-position: center;
     box-shadow: 5px 5px 5px 5px var(--first-color-lighter);
